@@ -923,7 +923,7 @@ h3
 	
 	float:left;
 	margin-left:100px;
-	*margin-left:100px;
+	margin-left:100px;
 	_margin-left:50px;
 	padding:0 0 0 0;
 	margin-top:30px;
@@ -960,7 +960,7 @@ h3
 	width:130px;
 	float:left;
 	
-	*margin-left:20px;
+	margin-left:20px;
 	margin-left:20px;
 	_margin-left:10px;
 	padding:0 0 0 0;
@@ -972,7 +972,7 @@ h3
 	width:130px;
 	float:left;
 
-	*margin-left:20px;
+	margin-left:20px;
 	margin-left:20px;
 	_margin-left:10px;
 	padding:0 0 0 0;
@@ -993,7 +993,7 @@ h3
 	width:130px;
 	float:left;
 	
-	*margin-left:20px;
+	margin-left:20px;
 	margin-left:20px;
 	_margin-left:10px;
 	padding:0 0 0 0;
@@ -1061,7 +1061,7 @@ h3
 .right_home1
 {
 	margin:0 0 0 4px;
-	*margin:0 0 0 5px;
+	margin:0 0 0 5px;
 	width:627px;
 	height:650px;
 	background-image:url(../images/home_right_bg1.jpg);
@@ -1425,10 +1425,7 @@ h3
 	font-size:16px;
 	color:#003399;
 }
-.faq_nav ul
-{
-    
-}
+
 .faq_nav li
 {
     list-style-image:url(../images/bluebullet.gif);
@@ -1715,10 +1712,6 @@ h3
 	height:127px;
 }
 
-.main_link
-{
-	
-}
 .main_link ul
 {
 	padding:0px;
